@@ -10,12 +10,27 @@ The purpose of the project is to explore how other plays fared when it comes to 
 
 ## Analysis and Challenges
 
+
 ### Analysis of Outcomes Based on Launch Date
 
 First I found the Date Created Conversion 
 '''=(((J2/60)/60)/24)+DATE(1970,1,1)'''
  and then created a column called year and used Year(Q2) which was the first cell in data created conversion to comb out the year. Then created a pivot table and a line plot that was filtered by the theater category and displayed the months with the number of successful, failed, and canceled plays. However, I wanted to see if the months that theater had the most successful fundraising campaigns was similar for other categories.
  
+ ### Theater Outcomes
+ 
+ ![Theater_Outcomes_Vs_Launch](https://user-images.githubusercontent.com/110268006/187817786-ae0651aa-48dc-43f1-88f7-0a65ffa97f2a.png)
+
+ ### Music Outcomes
+ 
+ ![Music](https://user-images.githubusercontent.com/110268006/187817713-5a94e8ce-d2ed-4daf-b59c-66d3dbe850ca.png)
+
+ ### All Category Outcomes
+ 
+ ![All Category](https://user-images.githubusercontent.com/110268006/187817728-1a14fcb8-c504-4a56-abb4-12de79ece827.png)
+ 
+ ### Comparson Results 
+
 The results showed that May is the best month for not only theater but for music and all categories. 
 
 
