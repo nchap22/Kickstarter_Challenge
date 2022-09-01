@@ -31,7 +31,7 @@ First I found the Date Created Conversion
  
  ### Comparson Results 
 
-The results showed that May is the best month for not only theater but for music and all categories. 
+The results showed that May is the best month for not only theater but for music and all categories and the results show that December has the lowest amount of success. 
 
 
 ### Analysis of Outcomes Based on Goals
