@@ -6,7 +6,7 @@ Louise's play Fever was close to making its fundraising goal in only a short amo
 
 ### Purpose
 
-The purpose of the project is to explore how other plays fared when it comes to their fundraising goals compared to how the play Fever fared. It’s important to see what months plays have the most success because these are the months to focus on when trying to fundraise and launch a play. Also, the purpose is to find what campaign goal amount has the most success and what campaign gial amounts have the least amount of success. 
+The purpose of the project is to explore how other plays fared when it comes to their fundraising goals compared to how the play Fever fared. It’s important to see what months plays have the most success because these are the months to focus on when trying to fundraise and launch a play. Also, the purpose is to find what campaign goal amount has the most success and what campaign goal amounts have the least amount of success. 
 
 ## Analysis and Challenges
 
@@ -62,7 +62,7 @@ Another challenge is making these assumptions on how successful a campaign is wh
 
 1. One limitation is the data doesn’t show how the same play does in different months with different fundraising goals. 
 
-2. Another limitation is the amount of time its launched to the amoutn of time it ends is not very long, it would be interesting to add another month on to the campaigns and see if it makes a difference. 
+2. Another limitation is the amount of time its launched to the amount of time it ends is not very long, it would be interesting to add another month on to the campaigns and see if it makes a difference. 
 
 ## Other Tables
 
