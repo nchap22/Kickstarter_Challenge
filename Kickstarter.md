@@ -35,26 +35,26 @@ Another challenge is making these assumptions on how successful a campaign is wh
 
 ### Two Conclusions about the Outcomes based on Launch Date?
 
-..1. The top three months for plays with the greatest fundraising sucess are May, June, and July.
+1. The top three months for plays with the greatest fundraising sucess are May, June, and July.
 
-..2. The least successful fundraising campaign month for plays is December. 
+2. The least successful fundraising campaign month for plays is December. 
 
  ### One Conclusion for the Outcomes based on Goals?
 
-..1. I can conclude that high fundraising goals don’t always equal a high success rate and the data shows that lowering goals can lead to a better outcome. 
+1. I can conclude that high fundraising goals don’t always equal a high success rate and the data shows that lowering goals can lead to a better outcome. 
 
 ## Limitations
 
-..1. One limitation is the data doesn’t show how the same play does in different months with different fundraising goals. 
+1. One limitation is the data doesn’t show how the same play does in different months with different fundraising goals. 
 
-..2. Another limitation is the amount of time its launched to the amoutn of time it ends is not very long, it would be interesting to add another month on to the campaigns and see if it makes a difference. 
+2. Another limitation is the amount of time its launched to the amoutn of time it ends is not very long, it would be interesting to add another month on to the campaigns and see if it makes a difference. 
 
 ## Other Tables
 
 Other possible tables include: 
-..1. Box and Whiskers Plot
-..2. Bar Graph
-..3. Cartesian Graph
-..4. Histogran
-..5. Pictogram
-..6. Pie Charts
+1. Box and Whiskers Plot
+2. Bar Graph
+3. Cartesian Graph
+4. Histogran
+5. Pictogram
+6. Pie Charts
